@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=niedong&hide=html,css,javascript&count_private=true&layout=compact)](https://github.com/niedong)
+[![Stat](https://github-readme-stats.vercel.app/api?username=niedong&show_icons=true&count_private=true&line_height=20)](https://github.com/niedong)
+
 <!--
 **niedong/niedong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
