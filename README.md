@@ -1,6 +1,4 @@
 ### niedong0816@126.com
-
-<h2>Github Info</h2>
 	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niedong&theme=github_dark" alt="niedong" align = "center"/></p>
